@@ -1,0 +1,15 @@
+LUCCO INVITING THEME UPDATE
+
+Added:
+- New bold, inviting LUCCO visual identity
+- New Discover page
+- Explore-by-goal cards
+- Trending/marquee navigation
+- More interactive homepage content
+- Random fact interaction
+- Richer Facts page
+- Refreshed Library Finder
+- Daily/Edit/About/FAQ/newsletter retained
+- All six existing Payhip checkout links preserved
+
+The styling takes general inspiration from modern direct-to-consumer sites with bold typography, quick category navigation and editorial discovery, while keeping an original LUCCO layout and identity.

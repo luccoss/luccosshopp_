@@ -1,0 +1,31 @@
+LUCCO PREMIUM 2.0 — NETLIFY READY
+
+WHAT IS INCLUDED
+- Premium elegant LUCCO redesign
+- 6 connected Payhip product pages
+- Discover page
+- Guides hub + 5 substantial free guide pages
+- LUCCO Daily
+- Facts page
+- Library Finder
+- About / FAQ / Contact / Newsletter
+- Netlify newsletter + contact forms
+- sitemap.xml
+- robots.txt
+- canonical URLs and page descriptions
+- basic structured data
+- security headers and redirects
+
+PAYHIP
+All 6 existing Payhip links are preserved in checkout-links.json and in the product buttons.
+
+NETLIFY FORMS
+Enable Form Detection in Netlify to collect newsletter and contact submissions.
+This stores submissions. Automated outgoing newsletters still require an email provider.
+
+SEO
+Submit https://luccosshop.nl/sitemap.xml in Google Search Console after the site is live.
+The site contains useful editorial pages rather than mass-generated thin pages.
+
+IMPORTANT
+SEO and sales are not guaranteed. Traffic, trust, product-market fit and continued useful content all matter.

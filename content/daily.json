@@ -1,0 +1,23 @@
+{
+  "updated": "2026-08-13",
+  "items": [
+    {
+      "category": "AI",
+      "title": "Build workflows before collecting tools",
+      "summary": "Start with one repeated job, then design the smallest reliable process around it.",
+      "url": "guide-ai-workflow.html"
+    },
+    {
+      "category": "Creator",
+      "title": "Clarity is part of premium design",
+      "summary": "A buyer should understand what a product is, who it is for and what is included within seconds.",
+      "url": "guide-premium-digital-product.html"
+    },
+    {
+      "category": "Lifestyle",
+      "title": "Reduce friction before adding systems",
+      "summary": "Small changes in how things are stored, planned or started can be more useful than a complex setup.",
+      "url": "guide-home-reset.html"
+    }
+  ]
+}

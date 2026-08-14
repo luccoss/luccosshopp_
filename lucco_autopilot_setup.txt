@@ -1,0 +1,53 @@
+MAILERLITE STATUS
+CONNECTED: account 2576012, form 195786942471735073, embed id 44838101.
+Homepage and newsletter page now submit directly to MailerLite.
+Free Starter Kit remains a Netlify form for interest segmentation.
+
+LUCCO AUTOPILOT — WHAT IS READY
+
+AUTOMATIC / WORKS ON THE STATIC SITE
+- Payhip checkout links
+- Product recommendations / cross-sells
+- Library Finder
+- Free Starter Kit segmentation form
+- Netlify contact + newsletter forms
+- Thank-you funnel
+- Internal event tracking in the visitor's browser
+- SEO sitemap / robots / internal linking
+- LUCCO Daily JSON content feed
+- Fast static Netlify deployment
+
+ONE-TIME CONNECTIONS TO MAKE IT MORE AUTOMATIC
+
+1) NETLIFY FORMS
+Enable Form Detection in your Netlify site's Forms settings.
+Submissions from:
+- lucco-lead-magnet
+- lucco-brief
+- lucco-brief-page
+- contact
+can then be collected in Netlify.
+
+2) EMAIL PLATFORM
+Connect Kit, MailerLite or another provider to the lead form.
+Suggested automation:
+Signup -> Welcome email -> Free useful tip -> Recommended library -> Reminder -> Related library.
+
+Suggested segments:
+ai / money / wellness / creator / lifestyle / all
+
+3) AUTOMATIC CONTENT PUBLISHING
+content/daily.json is the prepared feed.
+To publish generated content automatically, use a Git/CMS workflow that updates this file and triggers a Netlify redeploy.
+
+4) ANALYTICS
+tracking.js currently stores simple pageview/checkout/cross-sell events locally.
+Connect a privacy-appropriate analytics endpoint later for central reporting.
+
+5) GOOGLE
+Submit:
+https://luccosshop.nl/sitemap.xml
+in Google Search Console once this version is live.
+
+IMPORTANT
+No automation can guarantee traffic or sales. Search engines, audience interest, product quality, trust and conversion all matter.

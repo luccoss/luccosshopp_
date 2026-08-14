@@ -1,0 +1,26 @@
+{
+  "ai": [
+    "creator",
+    "money"
+  ],
+  "money": [
+    "ai",
+    "lifestyle"
+  ],
+  "fitness": [
+    "nutrition",
+    "lifestyle"
+  ],
+  "nutrition": [
+    "fitness",
+    "lifestyle"
+  ],
+  "creator": [
+    "ai",
+    "lifestyle"
+  ],
+  "lifestyle": [
+    "creator",
+    "fitness"
+  ]
+}

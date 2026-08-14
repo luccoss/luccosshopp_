@@ -1,60 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://luccosshop.nl/</loc>
-  </url>
+  <url><loc>https://luccosshop.nl/</loc></url>
+  <url><loc>https://luccosshop.nl/shop.html</loc></url>
+  <url><loc>https://luccosshop.nl/discover.html</loc></url>
+  <url><loc>https://luccosshop.nl/guides.html</loc></url>
+  <url><loc>https://luccosshop.nl/daily.html</loc></url>
+  <url><loc>https://luccosshop.nl/facts.html</loc></url>
+  <url><loc>https://luccosshop.nl/about.html</loc></url>
+  <url><loc>https://luccosshop.nl/newsletter.html</loc></url>
+  <url><loc>https://luccosshop.nl/faq.html</loc></url>
+  <url><loc>https://luccosshop.nl/contact.html</loc></url>
+  <url><loc>https://luccosshop.nl/edit.html</loc></url>
 
-  <url>
-    <loc>https://luccosshop.nl/shop.html</loc>
-  </url>
+  <url><loc>https://luccosshop.nl/ai.html</loc></url>
+  <url><loc>https://luccosshop.nl/money.html</loc></url>
+  <url><loc>https://luccosshop.nl/fitness.html</loc></url>
+  <url><loc>https://luccosshop.nl/nutrition.html</loc></url>
+  <url><loc>https://luccosshop.nl/creator.html</loc></url>
+  <url><loc>https://luccosshop.nl/lifestyle.html</loc></url>
+  <url><loc>https://luccosshop.nl/ai-finder.html</loc></url>
+  <url><loc>https://luccosshop.nl/free-starter-kit.html</loc></url>
 
-  <url>
-    <loc>https://luccosshop.nl/discover.html</loc>
-  </url>
-
-  <url>
-    <loc>https://luccosshop.nl/guides.html</loc>
-  </url>
-
-  <url>
-    <loc>https://luccosshop.nl/daily.html</loc>
-  </url>
-
-  <url>
-    <loc>https://luccosshop.nl/facts.html</loc>
-  </url>
-
-  <url>
-    <loc>https://luccosshop.nl/about.html</loc>
-  </url>
-
-  <url>
-    <loc>https://luccosshop.nl/ai.html</loc>
-  </url>
-
-  <url>
-    <loc>https://luccosshop.nl/money.html</loc>
-  </url>
-
-  <url>
-    <loc>https://luccosshop.nl/fitness.html</loc>
-  </url>
-
-  <url>
-    <loc>https://luccosshop.nl/nutrition.html</loc>
-  </url>
-
-  <url>
-    <loc>https://luccosshop.nl/creator.html</loc>
-  </url>
-
-  <url>
-    <loc>https://luccosshop.nl/lifestyle.html</loc>
-  </url>
-
-  <url>
-    <loc>https://luccosshop.nl/ai-finder.html</loc>
-  </url>
+  <url><loc>https://luccosshop.nl/guide-ai-workflow.html</loc></url>
+  <url><loc>https://luccosshop.nl/guide-investing-basics.html</loc></url>
+  <url><loc>https://luccosshop.nl/guide-home-reset.html</loc></url>
+  <url><loc>https://luccosshop.nl/guide-premium-digital-product.html</loc></url>
+  <url><loc>https://luccosshop.nl/guide-repeatable-routines.html</loc></url>
 
 </urlset>
